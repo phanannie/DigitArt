@@ -1,2 +1,2 @@
 # DigitArt
-Virtual Painter with Hand Tracking AI
+Powered by AI, this project utilizes real-time hand tracking to capture hand landmarks, enabling users to effortlessly draw and paint on a digital canvas. With intuitive gesture controls, users can select colours and tools using two fingers, while a single finger serves as a brush for creating fun artwork. DigiArt combines the realms of artificial intelligence and artistic expression, providing a seamless and engaging platform for unleashing your creativity!
