@@ -9,7 +9,7 @@ Powered by AI, this project utilizes real-time hand tracking to capture hand lan
 
 With intuitive gesture controls, users can select colours and tools using two fingers, while a single finger serves as a brush for creating fun artwork. DigiArt combines the realms of artificial intelligence and artistic expression, providing a seamless and engaging platform for unleashing your creativity!
 
-### How to Use:
+## How to Use:
 * Hold your hand up in front of your camera to begin tracking.
 * Use the index finger to interact with the virtual painter:
 * **Selection Mode**: Point your index finger to the desired colour.
@@ -17,7 +17,7 @@ With intuitive gesture controls, users can select colours and tools using two fi
 * **Eraser Mode**: Show your open palm to switch to eraser mode. Move your hand to erase.
 * Your creations will appear on the canvas in real time.
 
-## Usage
+## Tracking
 
 Hand landmarks were tracked and their points are used to draw on the screen. 
 
